@@ -1,4 +1,4 @@
-# Image_Sharing_Platform
+# RecipeBook
 
 •Käyttäjä pystyy luomaan tunnuksen ja kirjautumaan sisään sovellukseen.
 
